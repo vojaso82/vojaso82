@@ -1,5 +1,3 @@
-Star this repo6372
-Fork on GitHub1126
 <h1 align="center">Hello 👋, my name is Vojislav.</h1>
 <h3 align="center">I'm a passionate Web developer.</h3>
 
