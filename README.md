@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, my name is Vojislav.</h1>
 <h3 align="center">I'm a passionate Web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vojaso82&label=Profile%20views&color=0e75b6&style=flat" alt="vojaso82" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vojaso82.visitor-badge)
+![Codewars](https://www.codewars.com/users/TheCodeStig/badges/micro)
 
 📫 How to reach me: **vojislavzaja@gmail.com**
 
