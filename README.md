@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Web developer.</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vojaso82.visitor-badge)
-![Codewars](https://www.codewars.com/users/TheCodeStig/badges/micro)
+![Codewars](https://www.codewars.com/users/vojaso82/badges/micro)
 
 📫 How to reach me: **vojislavzaja@gmail.com**
 
