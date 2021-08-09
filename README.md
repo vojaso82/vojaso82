@@ -2,6 +2,7 @@
 <h3 align="center">I'm a passionate Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vojaso82&label=Profile%20views&color=0e75b6&style=flat" alt="vojaso82" /> </p>
+<p align="right"> <img src="https://www.codewars.com/users/vojaso82/badges/micro" alt="codewars"/> </p>
 
 📫 How to reach me: **vojislavzaja@gmail.com**
 
