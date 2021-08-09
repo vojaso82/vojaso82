@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, my name is Vojislav.</h1>
-<h3 align="center">I'm a passionate Web developer.</h3>
+# Hello 👋, my name is Vojislav.
+I'm a passionate Web developer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vojaso82.visitor-badge)
 ![Codewars](https://www.codewars.com/users/vojaso82/badges/micro)
