@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, my name is Vojislav.</h1>
 <h3 align="center">I'm a passionate Web developer.</h3>
-<div>
+<div display="flex">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vojaso82&label=Profile%20views&color=0e75b6&style=flat" alt="vojaso82" /> </p>
 <p align="left"> <img src="https://www.codewars.com/users/vojaso82/badges/micro" alt="codewars"/> </p>
 </div>
