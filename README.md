@@ -1,6 +1,3 @@
-# Hello 👋, my name is Vojislav.
-### I'm a passionate Software Developer.
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vojaso82.visitor-badge)
 ![Codewars](https://www.codewars.com/users/vojaso82/badges/micro)
 
