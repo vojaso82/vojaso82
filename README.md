@@ -1,4 +1,4 @@
-![aaaa](https://komarev.com/ghpvc/?username=vojaso82&style=plastic)
+![](https://komarev.com/ghpvc/?username=vojaso82&style=plastic)
 ![Codewars](https://www.codewars.com/users/vojaso82/badges/micro)
 
 <h3 align="left">Connect with me:</h3>
